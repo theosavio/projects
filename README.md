@@ -18,7 +18,7 @@ import vertexai
 PROJECT_ID = "<your-project-id>"
 vertexai.init(project=PROJECT_ID)
 
-Usage
+##Usage
 Load video data:
 
 Use the YoutubeLoader to load video content from a YouTube URL.
@@ -35,6 +35,14 @@ Gradio Interface:
 
 Launch a Gradio interface to interactively ask questions and get responses.
 
-Contributing
+##Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+Resources
+Google Cloud AI Platform Documentation
+Langchain Documentation
+ChromaDB Documentation
+PyTube Documentation
+YouTube Transcript API Documentation
+Gradio Documentation
